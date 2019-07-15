@@ -58,5 +58,4 @@ server.post("/projects/:id/tasks", verificarId, (req, res) => {
   return res.json(projects);
 });
 
-vjgjhgj;
 server.listen(3000);
